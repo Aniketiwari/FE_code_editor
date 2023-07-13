@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.13.7",
+    "react-codemirror2": "^7.2.1"
+  }
+}
